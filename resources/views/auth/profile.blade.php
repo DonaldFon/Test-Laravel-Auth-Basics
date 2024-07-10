@@ -29,7 +29,7 @@
                                      class="block mt-1 w-full"
                                      type="text"
                                      name="name"
-                                     value="{{ auth()->user()->name }}"
+                                     value="{{ abch }}"
                                      required />
                         </div>
 
